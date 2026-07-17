@@ -27,7 +27,7 @@ AWS Cognito has introduced a streamlined wizard for configuring application reso
 ![Create Cognito User Pool](/WorkShop-AntiCollab/images/5-Workshop/5.2-Network-Security/5.2.1-Cognito-Auth/configure-options.png)
 4. Under **Add a return URL - optional**: Enter `http://localhost`.
 5. Click **Create user directory** at the bottom right of the page.
-![Create Cognito User Pool](/WorkShop-AntiCollab/images/5-Workshop/5.2-Network-Security/5.2.1-Cognito-Auth/add-a-return.png)
+![Create Cognito User Pool](/WorkShop-AntiCollab/WorkShop-AntiCollab/images/5-Workshop/5.2-Network-Security/5.2.1-Cognito-Auth/add-a-return.png)
 
 ---
 

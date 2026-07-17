@@ -6,6 +6,7 @@ chapter: false
 pre: " <b> 5.3. </b> "
 ---
 
+
 In this section, we will configure the storage buckets, relational database, and caching server on AWS.
 
 1. [S3 Buckets & IAM Roles](5.3.1-S3-Buckets-IAM/)

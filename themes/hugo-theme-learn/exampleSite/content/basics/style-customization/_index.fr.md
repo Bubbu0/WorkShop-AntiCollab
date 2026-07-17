@@ -38,7 +38,7 @@ Si votre favicon est un png, déposez votre image dans votre dossier local `stat
 Si vous avez besoin de changer ce comportement par défaut, créer un nouveau fichier dans `layouts/partials/` et nommez le `favicon.html`. Puis ajoutez quelque chose comme:
 
 ```html
-<link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
+<link rel="shortcut icon" href="/images/favicon.png" type="/WorkShop-AntiCollab/images/x-icon" />
 ```
 
 ## Changer les couleurs par défaut {#theme-variant}

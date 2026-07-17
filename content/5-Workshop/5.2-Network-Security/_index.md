@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 5.2. </b> "
 ---
 
-
+# Network & Security
 
 In this section, we will configure the secrets, virtual network, and firewall rules on AWS.
 
