@@ -30,7 +30,7 @@ When a code push or Pull Request merge occurs on the main branch:
 * **Step 3:** Use GitHub Repository Variables for non-sensitive configurations (e.g., `AWS_REGION`, `ECR_REPOSITORY`, `ECS_SERVICE_NAME`) for easier maintenance.
 * **Step 4:** Define the complete workflow configuration in `.github/workflows/deploy.yml`.
 
-![CI/CD Workflow](/images/2-Blog/ecs-github-actions.png)
+![CI/CD Workflow](/WorkShop-AntiCollab/images/3-Blog/ecs-github-actions.png)
 
 ## Conclusion
 Combining GitHub Actions and Amazon ECS Express Mode via OIDC provides a comprehensive CI/CD solution. It optimizes deployment speed while meeting strict enterprise security standards. By eliminating static credentials and reducing the attack surface, this model serves as an effective reference for building secure software supply chains on AWS.

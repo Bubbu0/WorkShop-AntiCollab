@@ -50,7 +50,7 @@ The update process is fully automated through the following steps:
 3.  **Data Processing:** The Custom Bus triggers the `r53-updater` Lambda function, which fetches the latest Private IP information of the Load Balancer.
 4.  **System Update:** The state is synchronized in DynamoDB, and the corresponding DNS record in Route 53 is automatically created or updated.
 
-![Internal DNS Event-driven Architecture](/images/2-Blog/internal-dns-arch.png)
+![Internal DNS Event-driven Architecture](/WorkShop-AntiCollab/images/3-Blog/internal-dns-arch.png)
 
 ## Conclusion
 By shifting from manual DNS management to an event-driven model, we solve the connectivity issues for internal environments while ensuring scalability and accuracy. This architecture is a prime example of how AWS services can be orchestrated to solve complex networking problems automatically.

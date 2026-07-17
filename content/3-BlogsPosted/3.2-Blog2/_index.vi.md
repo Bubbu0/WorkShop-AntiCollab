@@ -48,7 +48,7 @@ Quá trình cập nhật diễn ra tự động qua các bước:
 3. **Xử lý dữ liệu:** Custom Bus kích hoạt hàm `r53-updater` để lấy thông tin Private IP mới nhất của Load Balancer.
 4. **Cập nhật hệ thống:** Trạng thái được đồng bộ vào DynamoDB, bản ghi DNS trong Route 53 được tạo mới hoặc điều chỉnh tự động.
 
-![Internal DNS Event-driven Architecture](/images/2-Blog/internal-dns-arch.png)
+![Internal DNS Event-driven Architecture](/WorkShop-AntiCollab/images/3-Blog/internal-dns-arch.png)
 
 ## Kết luận
 Bằng cách chuyển từ quản lý DNS thủ công sang mô hình hướng sự kiện, chúng ta giải quyết được vấn đề kết nối cho môi trường nội bộ mà vẫn đảm bảo khả năng mở rộng và độ chính xác.

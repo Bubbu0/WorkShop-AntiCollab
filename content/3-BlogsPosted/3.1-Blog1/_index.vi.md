@@ -47,7 +47,7 @@ Amazon Q Developer được tích hợp trực tiếp vào IDE để:
 
 ## Debugging with Amazon Q
 Amazon Q helps analyze logs efficiently.
-![Amazon Q Analyzing Logs](/images/2-Blog/amazon-q-logs.png)
+![Amazon Q Analyzing Logs](/WorkShop-AntiCollab/images/3-Blog/amazon-q-logs.png)
 
 ## Kết luận
 

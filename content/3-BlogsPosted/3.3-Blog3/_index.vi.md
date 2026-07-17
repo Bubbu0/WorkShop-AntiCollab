@@ -33,7 +33,7 @@ Khi có push code hoặc merge Pull Request vào nhánh main:
 ## Kết luận
 Việc kết hợp GitHub Actions và Amazon ECS Express Mode thông qua OIDC mang lại một giải pháp CI/CD toàn diện. Nó tối ưu hóa tốc độ triển khai trong khi vẫn đáp ứng các tiêu chuẩn bảo mật khắt khe. Bằng cách loại bỏ xác thực tĩnh, mô hình này là tài liệu tham khảo hiệu quả để xây dựng chuỗi cung ứng phần mềm an toàn trên AWS.
 
-![CI/CD Workflow](/images/2-Blog/ecs-github-actions.png)
+![CI/CD Workflow](/WorkShop-AntiCollab/images/3-Blog/ecs-github-actions.png)
 
 
 ---
