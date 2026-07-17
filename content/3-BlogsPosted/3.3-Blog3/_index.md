@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 3.3. </b> "
 ---
 
-# Automated Deployments to Amazon ECS Express Mode Using GitHub Actions
-
 Optimizing the CI/CD pipeline for containerized applications is crucial for modern DevOps. This solution focuses on two main pillars: simplifying operations and enhancing security when deploying to Amazon ECS.
 
 ## 1. Key Advantages

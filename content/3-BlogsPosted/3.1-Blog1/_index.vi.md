@@ -1,14 +1,10 @@
 ---
-title: "Tìm Hiểu Về Amazon Q: Liệu AI Có Thể Hỗ Trợ Toàn Bộ Vòng Đời Phát Triển Phần Mềm?"
+title: "Amazon Q: Hơn cả một Chatbot - Trợ lý toàn diện cho SDLC"
 date: 2026-07-09
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
-
-
-
-# Amazon Q: Hơn cả một Chatbot - Trợ lý toàn diện cho SDLC
 
 Trong thời gian thực tập và tìm hiểu thêm về AWS, mình có đọc một bài viết khá thú vị về **Amazon Q**. Ban đầu, mình nghĩ đây chỉ là một chatbot AI khác dành cho lập trình viên, tương tự như những công cụ hỗ trợ code đang xuất hiện ngày càng nhiều hiện nay.
 

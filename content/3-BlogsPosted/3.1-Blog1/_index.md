@@ -1,5 +1,5 @@
 ---
-title: "Understanding Amazon Q: Can AI Support the Entire Software Development Lifecycle"
+title: "Amazon Q: More Than a Chatbot - A Comprehensive Assistant for the SDLC"
 date: 2026-07-09
 weight: 1
 chapter: false

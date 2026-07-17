@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 3.2. </b> "
 ---
 
-# Triển khai Internal DNS cho Internet-facing Load Balancer
+
 
 Trong quá trình tìm hiểu về mạng AWS, Elastic Load Balancing (ELB) là dịch vụ nền tảng tôi sử dụng hàng ngày. Tuy nhiên, việc cấu hình các bộ cân bằng tải này đi kèm với một thách thức về DNS mà mọi kỹ sư Cloud cần lưu ý.
 

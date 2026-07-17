@@ -7,8 +7,6 @@ pre: " <b> 3.2. </b> "
 ---
 
 
-# Deploying Internal DNS for Internet-facing Load Balancers
-
 In my journey with AWS networking, Elastic Load Balancing (ELB) is a foundational service I encounter daily. However, configuring these load balancers comes with a specific DNS challenge that every cloud engineer should be aware of.
 
 ## 1. The Challenge

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 3.3. </b> "
 ---
 
-# Tự động hóa Deployment lên Amazon ECS Express Mode bằng GitHub Actions
+
 
 Tối ưu hóa quy trình CI/CD là yếu tố sống còn trong DevOps hiện đại. Giải pháp này tập trung vào hai trụ cột: đơn giản hóa vận hành và nâng cao bảo mật khi triển khai lên Amazon ECS.
 
