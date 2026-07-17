@@ -1,0 +1,8 @@
+{{- $destination := .Destination -}}
+{{- if not (urls.Parse $destination).Scheme -}}
+  {{- if not (hasPrefix $destination "/") -}}
+    {{- $destination = printf "/%s" $destination -}}
+  {{- end -}}
+  {{- $destination = $destination | relURL -}}
+{{- end -}}
+<img src="{{ $destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} />
