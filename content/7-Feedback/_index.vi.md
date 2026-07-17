@@ -7,7 +7,7 @@ pre: " <b> 7. </b> "
 ---
 
 
-Tham gia chương trình **First Cloud AI Journey (FCAJ) 2026** là một cột mốc quan trọng trong quá trình học tập và định hướng nghề nghiệp của tôi[cite: 1]. Chương trình đã giúp tôi thu hẹp khoảng cách giữa lý thuyết an ninh mạng và kiến trúc phòng thủ thực tế trên điện toán đám mây[cite: 2, 4]. Dưới đây là những đánh giá và phản hồi khách quan của tôi về Bootcamp:
+Tham gia chương trình **First Cloud AI Journey (FCAJ) 2026** là một cột mốc quan trọng trong quá trình học tập và định hướng nghề nghiệp của tôi. Chương trình đã giúp tôi thu hẹp khoảng cách giữa lý thuyết an ninh mạng và kiến trúc phòng thủ thực tế trên điện toán đám mây. Dưới đây là những đánh giá và phản hồi khách quan của tôi về Bootcamp:
 
 ### Đánh giá tổng quan
 
@@ -15,10 +15,10 @@ Tham gia chương trình **First Cloud AI Journey (FCAJ) 2026** là một cột 
 Môi trường Bootcamp cực kỳ năng động, có lộ trình rõ ràng và mang tính tương tác cao. Ban tổ chức FCAJ đã xây dựng được một hệ sinh thái học tập hiệu quả, nơi học viên luôn được thúc đẩy để vượt qua các giới hạn công nghệ của bản thân. Sự kết hợp giữa các bài Lab tự học và các buổi thảo luận nhóm giúp duy trì động lực liên tục trong suốt 12 tuần.
 
 **2. Sự hỗ trợ từ Mentor và Đội ngũ Admin**  
-Sự dẫn dắt từ các Mentor vô cùng chuyên nghiệp. Mỗi khi tôi gặp phải các nút thắt khó khăn về kiến trúc hệ thống—chẳng hạn như xung đột chính sách IAM xuyên tài khoản hay lỗi định tuyến DNS cho mạng Hybrid—Mentor không đơn thuần đưa ra câu trả lời có sẵn[cite: 4, 6]. Thay vào đó, Mentor định hướng tư duy để tôi tự tra cứu và khắc phục sự cố. Đội ngũ Admin cũng hỗ trợ rất nhiệt tình, điều phối tài nguyên mượt mà và thông tin kịp thời.
+Sự dẫn dắt từ các Mentor vô cùng chuyên nghiệp. Mỗi khi tôi gặp phải các nút thắt khó khăn về kiến trúc hệ thống—chẳng hạn như xung đột chính sách IAM xuyên tài khoản hay lỗi định tuyến DNS cho mạng Hybrid—Mentor không đơn thuần đưa ra câu trả lời có sẵn. Thay vào đó, Mentor định hướng tư duy để tôi tự tra cứu và khắc phục sự cố. Đội ngũ Admin cũng hỗ trợ rất nhiệt tình, điều phối tài nguyên mượt mà và thông tin kịp thời.
 
 **3. Độ tương quan của chương trình với chuyên ngành học**  
-Là một sinh viên chuyên ngành **An ninh mạng**, tôi thấy chương trình này hoàn toàn thực tế và phù hợp. Nếu như ở trường đại học tôi được học nền tảng về mạng và an toàn hệ thống, thì FCAJ đã nâng tầm tư duy đó lên mô hình bảo mật đám mây hiện đại[cite: 2]. Việc trực tiếp thao tác với AWS WAF, GuardDuty, hay cấu hình truy cập nội bộ qua VPC PrivateLink đã bổ trợ trực tiếp cho kỹ năng chuyên môn của tôi.
+Là một sinh viên chuyên ngành **An ninh mạng**, tôi thấy chương trình này hoàn toàn thực tế và phù hợp. Nếu như ở trường đại học tôi được học nền tảng về mạng và an toàn hệ thống, thì FCAJ đã nâng tầm tư duy đó lên mô hình bảo mật đám mây hiện đại. Việc trực tiếp thao tác với AWS WAF, GuardDuty, hay cấu hình truy cập nội bộ qua VPC PrivateLink đã bổ trợ trực tiếp cho kỹ năng chuyên môn của tôi.
 
 **4. Cơ hội học hỏi và phát triển kỹ năng**  
 Bên cạnh chuyên môn kỹ thuật, Bootcamp đã giúp tôi hoàn thiện rất nhiều kỹ năng mềm. Từ việc tài liệu hóa tiến độ trên website Hugo, thuyết trình sơ đồ kiến trúc, cho đến việc quản lý hạ tầng bằng mã (Terraform) và áp dụng các nguyên tắc phòng thủ chiều sâu đều giúp tôi tự tin hơn rất nhiều khi chuẩn bị bước vào thị trường lao động.
