@@ -1,14 +1,12 @@
 ---
-title: "Blog 1: Tìm Hiểu Về Amazon Q: Liệu AI Có Thể Hỗ Trợ Toàn Bộ Vòng Đời Phát Triển Phần Mềm?"
+title: "Tìm Hiểu Về Amazon Q: Liệu AI Có Thể Hỗ Trợ Toàn Bộ Vòng Đời Phát Triển Phần Mềm?"
 date: 2026-07-09
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Bài viết này là ghi chép cá nhân trong quá trình học tập và thực tập của mình, dựa trên trải nghiệm và phân tích từ tài liệu gốc của AWS.
-{{% /notice %}}
+
 
 # Amazon Q: Hơn cả một Chatbot - Trợ lý toàn diện cho SDLC
 
